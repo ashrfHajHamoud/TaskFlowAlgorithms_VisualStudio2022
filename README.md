@@ -30,6 +30,7 @@
 - `member3@team.local` / `123456`
 - `member4@team.local` / `123456`
 - `member5@team.local` / `123456`
+- `member5@team.local` / `123456`
 
 يمكن أيضًا تسجيل مستخدم جديد من صفحة التسجيل.
 
